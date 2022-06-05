@@ -1,0 +1,1093 @@
+cartodb_id,province,category,counts,salary
+1.0,Álava,Administración de empresas,18,21383
+1.0,Álava,Atención a clientes,24,15890
+1.0,Álava,"Calidad, producción e I+D",34,22369
+1.0,Álava,Comercial y ventas,51,23023
+1.0,Álava,"Compras, logística y almacén",29,18927
+1.0,Álava,Diseño y artes gráficas,2,24750
+1.0,Álava,Educación y formación,2,21000
+1.0,Álava,Informática y telecomunicaciones,14,25500
+1.0,Álava,Ingenieros y técnicos,33,27600
+1.0,Álava,Marketing y comunicación,2,18000
+1.0,Álava,Otros,43,20022
+1.0,Álava,"Profesiones, artes y oficios",31,21894
+1.0,Álava,Recursos humanos,5,25500
+1.0,Álava,Sanidad y salud,13,31750
+1.0,Álava,Turismo y restauración,19,19575
+1.0,Álava,Ventas al detalle,22,15000
+2.0,Albacete,Administración de empresas,5,13625
+2.0,Albacete,Atención a clientes,7,20420
+2.0,Albacete,Comercial y ventas,36,23177
+2.0,Albacete,"Compras, logística y almacén",6,12600
+2.0,Albacete,Informática y telecomunicaciones,10,27000
+2.0,Albacete,Ingenieros y técnicos,10,27000
+2.0,Albacete,Inmobiliario y construcción,2,16500
+2.0,Albacete,Marketing y comunicación,3,12500
+2.0,Albacete,Otros,7,21750
+2.0,Albacete,"Profesiones, artes y oficios",8,18375
+2.0,Albacete,Recursos humanos,2,25500
+2.0,Albacete,Sanidad y salud,9,21150
+2.0,Albacete,Turismo y restauración,4,17400
+2.0,Albacete,Ventas al detalle,4,19800
+3.0,Alicante,Administración Pública,3,16500
+3.0,Alicante,Administración de empresas,55,16871
+3.0,Alicante,Atención a clientes,73,15953
+3.0,Alicante,"Calidad, producción e I+D",8,23200
+3.0,Alicante,Comercial y ventas,166,23254
+3.0,Alicante,"Compras, logística y almacén",31,17950
+3.0,Alicante,Diseño y artes gráficas,7,15540
+3.0,Alicante,Educación y formación,3,12600
+3.0,Alicante,Informática y telecomunicaciones,77,20012
+3.0,Alicante,Ingenieros y técnicos,17,20828
+3.0,Alicante,Inmobiliario y construcción,32,20473
+3.0,Alicante,Legal,8,16280
+3.0,Alicante,Marketing y comunicación,20,18716
+3.0,Alicante,Otros,64,20746
+3.0,Alicante,"Profesiones, artes y oficios",44,17061
+3.0,Alicante,Recursos humanos,12,20125
+3.0,Alicante,Sanidad y salud,39,22766
+3.0,Alicante,Turismo y restauración,88,17661
+3.0,Alicante,Ventas al detalle,57,15700
+4.0,Almería,Administración de empresas,6,16800
+4.0,Almería,Atención a clientes,6,17166
+4.0,Almería,Comercial y ventas,47,25522
+4.0,Almería,"Compras, logística y almacén",6,14400
+4.0,Almería,Educación y formación,2,14400
+4.0,Almería,Ingenieros y técnicos,8,27000
+4.0,Almería,Marketing y comunicación,5,25500
+4.0,Almería,Otros,7,16500
+4.0,Almería,"Profesiones, artes y oficios",10,25425
+4.0,Almería,Recursos humanos,1,12500
+4.0,Almería,Sanidad y salud,8,30350
+5.0,Ávila,Comercial y ventas,8,21120
+5.0,Ávila,Educación y formación,1,10800
+5.0,Ávila,Informática y telecomunicaciones,2,15000
+5.0,Ávila,Otros,2,15300
+5.0,Ávila,"Profesiones, artes y oficios",3,22500
+5.0,Ávila,Sanidad y salud,3,8100
+5.0,Ávila,Ventas al detalle,2,21750
+6.0,Badajoz,Administración Pública,4,15000
+6.0,Badajoz,Atención a clientes,6,17333
+6.0,Badajoz,"Calidad, producción e I+D",1,18000
+6.0,Badajoz,Comercial y ventas,37,19568
+6.0,Badajoz,"Compras, logística y almacén",4,9000
+6.0,Badajoz,Informática y telecomunicaciones,8,20250
+6.0,Badajoz,Otros,12,17700
+6.0,Badajoz,"Profesiones, artes y oficios",9,23266
+6.0,Badajoz,Sanidad y salud,5,17700
+6.0,Badajoz,Turismo y restauración,8,17100
+6.0,Badajoz,Ventas al detalle,2,21600
+7.0,Illes Balears,Administración de empresas,75,20434
+7.0,Illes Balears,Atención a clientes,99,17117
+7.0,Illes Balears,"Calidad, producción e I+D",6,19800
+7.0,Illes Balears,Comercial y ventas,141,23368
+7.0,Illes Balears,"Compras, logística y almacén",38,17614
+7.0,Illes Balears,Diseño y artes gráficas,3,16500
+7.0,Illes Balears,Educación y formación,7,12500
+7.0,Illes Balears,Finanzas y banca,9,20800
+7.0,Illes Balears,Informática y telecomunicaciones,47,25654
+7.0,Illes Balears,Ingenieros y técnicos,30,24262
+7.0,Illes Balears,Inmobiliario y construcción,40,24576
+7.0,Illes Balears,Legal,5,22200
+7.0,Illes Balears,Marketing y comunicación,18,19725
+7.0,Illes Balears,Otros,86,18648
+7.0,Illes Balears,"Profesiones, artes y oficios",87,19017
+7.0,Illes Balears,Recursos humanos,11,21000
+7.0,Illes Balears,Sanidad y salud,39,18408
+7.0,Illes Balears,Turismo y restauración,257,20504
+7.0,Illes Balears,Ventas al detalle,82,14908
+8.0,Barcelona,Administración Pública,17,24320
+8.0,Barcelona,Administración de empresas,847,20306
+8.0,Barcelona,Atención a clientes,630,17334
+8.0,Barcelona,"Calidad, producción e I+D",250,23651
+8.0,Barcelona,Comercial y ventas,1021,24442
+8.0,Barcelona,"Compras, logística y almacén",443,21362
+8.0,Barcelona,Diseño y artes gráficas,58,20151
+8.0,Barcelona,Educación y formación,119,18447
+8.0,Barcelona,Finanzas y banca,85,21358
+8.0,Barcelona,Informática y telecomunicaciones,680,27675
+8.0,Barcelona,Ingenieros y técnicos,377,25179
+8.0,Barcelona,Inmobiliario y construcción,191,25589
+8.0,Barcelona,Legal,56,25406
+8.0,Barcelona,Marketing y comunicación,172,21034
+8.0,Barcelona,Otros,733,19931
+8.0,Barcelona,"Profesiones, artes y oficios",592,20655
+8.0,Barcelona,Recursos humanos,328,22640
+8.0,Barcelona,Sanidad y salud,374,21983
+8.0,Barcelona,Sector Farmacéutico,57,24040
+8.0,Barcelona,Turismo y restauración,619,18655
+8.0,Barcelona,Ventas al detalle,377,16833
+9.0,Burgos,Administración de empresas,9,19080
+9.0,Burgos,Atención a clientes,14,17283
+9.0,Burgos,"Calidad, producción e I+D",16,22450
+9.0,Burgos,Comercial y ventas,46,23557
+9.0,Burgos,"Compras, logística y almacén",16,17000
+9.0,Burgos,Finanzas y banca,1,19500
+9.0,Burgos,Informática y telecomunicaciones,12,19500
+9.0,Burgos,Ingenieros y técnicos,16,14500
+9.0,Burgos,Inmobiliario y construcción,6,17650
+9.0,Burgos,Legal,1,22500
+9.0,Burgos,Otros,24,16544
+9.0,Burgos,"Profesiones, artes y oficios",31,20337
+9.0,Burgos,Recursos humanos,2,20000
+9.0,Burgos,Sanidad y salud,15,24033
+9.0,Burgos,Turismo y restauración,18,15533
+9.0,Burgos,Ventas al detalle,13,11100
+10.0,Cáceres,"Calidad, producción e I+D",2,28500
+10.0,Cáceres,Comercial y ventas,19,20500
+10.0,Cáceres,Informática y telecomunicaciones,3,31500
+10.0,Cáceres,"Profesiones, artes y oficios",2,18000
+10.0,Cáceres,Sanidad y salud,5,21000
+10.0,Cáceres,Turismo y restauración,4,10800
+11.0,Cádiz,Administración Pública,1,21600
+11.0,Cádiz,Administración de empresas,8,15700
+11.0,Cádiz,Atención a clientes,18,17800
+11.0,Cádiz,"Calidad, producción e I+D",4,19500
+11.0,Cádiz,Comercial y ventas,78,19773
+11.0,Cádiz,"Compras, logística y almacén",12,15900
+11.0,Cádiz,Finanzas y banca,3,18250
+11.0,Cádiz,Informática y telecomunicaciones,7,25875
+11.0,Cádiz,Ingenieros y técnicos,12,23350
+11.0,Cádiz,Inmobiliario y construcción,1,30500
+11.0,Cádiz,Otros,14,21816
+11.0,Cádiz,"Profesiones, artes y oficios",15,19542
+11.0,Cádiz,Sanidad y salud,17,34500
+11.0,Cádiz,Turismo y restauración,23,16636
+11.0,Cádiz,Ventas al detalle,13,14200
+12.0,Castellón,Administración de empresas,11,19320
+12.0,Castellón,Atención a clientes,6,13200
+12.0,Castellón,"Calidad, producción e I+D",8,30833
+12.0,Castellón,Comercial y ventas,47,26694
+12.0,Castellón,"Compras, logística y almacén",6,20400
+12.0,Castellón,Diseño y artes gráficas,6,19875
+12.0,Castellón,Educación y formación,4,17100
+12.0,Castellón,Informática y telecomunicaciones,13,33500
+12.0,Castellón,Ingenieros y técnicos,11,23250
+12.0,Castellón,Inmobiliario y construcción,2,27000
+12.0,Castellón,Legal,1,12000
+12.0,Castellón,Marketing y comunicación,4,18250
+12.0,Castellón,Otros,18,18085
+12.0,Castellón,"Profesiones, artes y oficios",20,18350
+12.0,Castellón,Sanidad y salud,9,12600
+12.0,Castellón,Turismo y restauración,17,17350
+12.0,Castellón,Ventas al detalle,8,22600
+13.0,Ciudad Real,Atención a clientes,1,16500
+13.0,Ciudad Real,Comercial y ventas,37,21711
+13.0,Ciudad Real,Educación y formación,1,16500
+13.0,Ciudad Real,Informática y telecomunicaciones,8,20000
+13.0,Ciudad Real,Ingenieros y técnicos,5,18000
+13.0,Ciudad Real,"Profesiones, artes y oficios",1,29000
+13.0,Ciudad Real,Sanidad y salud,3,18000
+13.0,Ciudad Real,Ventas al detalle,1,16500
+14.0,Córdoba,Administración de empresas,10,16175
+14.0,Córdoba,Atención a clientes,7,16500
+14.0,Córdoba,Comercial y ventas,43,19224
+14.0,Córdoba,"Compras, logística y almacén",9,13500
+14.0,Córdoba,Informática y telecomunicaciones,15,21750
+14.0,Córdoba,Inmobiliario y construcción,5,19333
+14.0,Córdoba,Otros,21,17054
+14.0,Córdoba,"Profesiones, artes y oficios",4,15000
+14.0,Córdoba,Recursos humanos,2,13500
+14.0,Córdoba,Sanidad y salud,12,29333
+14.0,Córdoba,Sector Farmacéutico,1,40000
+14.0,Córdoba,Turismo y restauración,29,15207
+14.0,Córdoba,Ventas al detalle,6,25000
+15.0,A Coruña,Administración Pública,2,15000
+15.0,A Coruña,Administración de empresas,33,19938
+15.0,A Coruña,Atención a clientes,30,14260
+15.0,A Coruña,"Calidad, producción e I+D",3,30000
+15.0,A Coruña,Comercial y ventas,130,21487
+15.0,A Coruña,"Compras, logística y almacén",25,19750
+15.0,A Coruña,Educación y formación,9,31500
+15.0,A Coruña,Finanzas y banca,6,15750
+15.0,A Coruña,Informática y telecomunicaciones,57,23513
+15.0,A Coruña,Ingenieros y técnicos,17,22083
+15.0,A Coruña,Inmobiliario y construcción,17,33214
+15.0,A Coruña,Marketing y comunicación,4,18750
+15.0,A Coruña,Otros,56,19240
+15.0,A Coruña,"Profesiones, artes y oficios",46,16894
+15.0,A Coruña,Recursos humanos,17,15600
+15.0,A Coruña,Sanidad y salud,23,21366
+15.0,A Coruña,Turismo y restauración,56,16375
+15.0,A Coruña,Ventas al detalle,30,14585
+16.0,Cuenca,Comercial y ventas,16,18216
+16.0,Cuenca,Otros,7,12150
+16.0,Cuenca,"Profesiones, artes y oficios",2,21700
+16.0,Cuenca,Ventas al detalle,1,13500
+17.0,Girona,Administración de empresas,34,19227
+17.0,Girona,Atención a clientes,32,17140
+17.0,Girona,"Calidad, producción e I+D",10,19800
+17.0,Girona,Comercial y ventas,64,25118
+17.0,Girona,"Compras, logística y almacén",21,24366
+17.0,Girona,Finanzas y banca,2,24850
+17.0,Girona,Informática y telecomunicaciones,19,21525
+17.0,Girona,Ingenieros y técnicos,19,24409
+17.0,Girona,Inmobiliario y construcción,5,18000
+17.0,Girona,Legal,3,31750
+17.0,Girona,Marketing y comunicación,4,18666
+17.0,Girona,Otros,39,20887
+17.0,Girona,"Profesiones, artes y oficios",32,19014
+17.0,Girona,Recursos humanos,6,19500
+17.0,Girona,Sanidad y salud,22,27416
+17.0,Girona,Turismo y restauración,34,20925
+17.0,Girona,Ventas al detalle,29,18150
+18.0,Granada,Administración de empresas,8,19500
+18.0,Granada,Atención a clientes,6,17400
+18.0,Granada,Comercial y ventas,70,22900
+18.0,Granada,"Compras, logística y almacén",7,16200
+18.0,Granada,Informática y telecomunicaciones,20,22357
+18.0,Granada,Ingenieros y técnicos,12,25200
+18.0,Granada,Marketing y comunicación,5,19500
+18.0,Granada,Otros,13,15685
+18.0,Granada,"Profesiones, artes y oficios",10,24000
+18.0,Granada,Sanidad y salud,14,32666
+18.0,Granada,Sector Farmacéutico,2,18000
+18.0,Granada,Turismo y restauración,29,17578
+18.0,Granada,Ventas al detalle,10,14850
+19.0,Guadalajara,Administración de empresas,6,21400
+19.0,Guadalajara,Atención a clientes,2,19500
+19.0,Guadalajara,"Calidad, producción e I+D",4,19500
+19.0,Guadalajara,Comercial y ventas,18,21283
+19.0,Guadalajara,"Compras, logística y almacén",19,21450
+19.0,Guadalajara,Diseño y artes gráficas,1,24000
+19.0,Guadalajara,Informática y telecomunicaciones,6,15150
+19.0,Guadalajara,Ingenieros y técnicos,11,26140
+19.0,Guadalajara,Otros,16,17700
+19.0,Guadalajara,"Profesiones, artes y oficios",11,18771
+19.0,Guadalajara,Recursos humanos,7,22500
+19.0,Guadalajara,Sanidad y salud,9,28350
+19.0,Guadalajara,Turismo y restauración,3,31500
+19.0,Guadalajara,Ventas al detalle,1,10000
+20.0,Guipúzcoa,Administración de empresas,20,18772
+20.0,Guipúzcoa,Atención a clientes,22,17200
+20.0,Guipúzcoa,"Calidad, producción e I+D",5,21000
+20.0,Guipúzcoa,Comercial y ventas,67,27475
+20.0,Guipúzcoa,"Compras, logística y almacén",12,19500
+20.0,Guipúzcoa,Diseño y artes gráficas,2,12600
+20.0,Guipúzcoa,Educación y formación,2,16200
+20.0,Guipúzcoa,Informática y telecomunicaciones,34,22538
+20.0,Guipúzcoa,Ingenieros y técnicos,14,19560
+20.0,Guipúzcoa,Inmobiliario y construcción,3,19500
+20.0,Guipúzcoa,Legal,1,25500
+20.0,Guipúzcoa,Marketing y comunicación,4,19500
+20.0,Guipúzcoa,Otros,38,22394
+20.0,Guipúzcoa,"Profesiones, artes y oficios",22,20518
+20.0,Guipúzcoa,Sanidad y salud,17,31687
+20.0,Guipúzcoa,Turismo y restauración,56,20006
+20.0,Guipúzcoa,Ventas al detalle,23,17314
+21.0,Huelva,Atención a clientes,3,15150
+21.0,Huelva,Comercial y ventas,32,20325
+21.0,Huelva,"Compras, logística y almacén",4,16500
+21.0,Huelva,Informática y telecomunicaciones,3,18000
+21.0,Huelva,Inmobiliario y construcción,4,23250
+21.0,Huelva,Otros,10,17175
+21.0,Huelva,"Profesiones, artes y oficios",7,21000
+21.0,Huelva,Recursos humanos,2,57000
+21.0,Huelva,Sanidad y salud,6,13250
+21.0,Huelva,Turismo y restauración,3,12600
+21.0,Huelva,Ventas al detalle,5,11500
+22.0,Huesca,Comercial y ventas,5,30450
+22.0,Huesca,"Compras, logística y almacén",7,14500
+22.0,Huesca,Educación y formación,2,15000
+22.0,Huesca,Finanzas y banca,3,6000
+22.0,Huesca,Informática y telecomunicaciones,4,20250
+22.0,Huesca,Inmobiliario y construcción,3,10000
+22.0,Huesca,"Profesiones, artes y oficios",5,14000
+22.0,Huesca,Sanidad y salud,3,27000
+22.0,Huesca,Turismo y restauración,4,20000
+22.0,Huesca,Ventas al detalle,3,20400
+23.0,Jaén,Administración de empresas,2,16200
+23.0,Jaén,Atención a clientes,5,17666
+23.0,Jaén,Comercial y ventas,17,19700
+23.0,Jaén,Finanzas y banca,1,27000
+23.0,Jaén,Ingenieros y técnicos,3,19800
+23.0,Jaén,Marketing y comunicación,1,12600
+23.0,Jaén,Otros,3,16500
+23.0,Jaén,"Profesiones, artes y oficios",9,23700
+23.0,Jaén,Turismo y restauración,2,16200
+23.0,Jaén,Ventas al detalle,1,15000
+24.0,León,Administración de empresas,8,21000
+24.0,León,Atención a clientes,5,12000
+24.0,León,"Calidad, producción e I+D",3,16200
+24.0,León,Comercial y ventas,45,20820
+24.0,León,"Compras, logística y almacén",3,21000
+24.0,León,Informática y telecomunicaciones,25,29000
+24.0,León,Ingenieros y técnicos,12,21820
+24.0,León,Inmobiliario y construcción,3,18900
+24.0,León,Marketing y comunicación,6,13500
+24.0,León,Otros,11,16500
+24.0,León,"Profesiones, artes y oficios",10,18514
+24.0,León,Recursos humanos,5,19500
+24.0,León,Sanidad y salud,14,23783
+24.0,León,Turismo y restauración,11,17025
+24.0,León,Ventas al detalle,11,18000
+25.0,Lleida,Administración Pública,1,28500
+25.0,Lleida,Administración de empresas,26,21400
+25.0,Lleida,Atención a clientes,6,16500
+25.0,Lleida,"Calidad, producción e I+D",5,20000
+25.0,Lleida,Comercial y ventas,41,22440
+25.0,Lleida,"Compras, logística y almacén",19,15075
+25.0,Lleida,Educación y formación,8,16500
+25.0,Lleida,Finanzas y banca,1,33500
+25.0,Lleida,Informática y telecomunicaciones,18,22666
+25.0,Lleida,Ingenieros y técnicos,8,24833
+25.0,Lleida,Inmobiliario y construcción,6,25500
+25.0,Lleida,Marketing y comunicación,9,17775
+25.0,Lleida,Otros,16,19457
+25.0,Lleida,"Profesiones, artes y oficios",23,21037
+25.0,Lleida,Recursos humanos,10,25500
+25.0,Lleida,Sanidad y salud,19,24483
+25.0,Lleida,Sector Farmacéutico,1,31500
+25.0,Lleida,Turismo y restauración,13,16200
+25.0,Lleida,Ventas al detalle,11,14760
+26.0,La Rioja,Administración de empresas,13,26500
+26.0,La Rioja,Atención a clientes,5,16500
+26.0,La Rioja,"Calidad, producción e I+D",15,20966
+26.0,La Rioja,Comercial y ventas,35,23400
+26.0,La Rioja,"Compras, logística y almacén",6,18000
+26.0,La Rioja,Finanzas y banca,2,6000
+26.0,La Rioja,Informática y telecomunicaciones,16,30700
+26.0,La Rioja,Ingenieros y técnicos,9,28500
+26.0,La Rioja,Inmobiliario y construcción,5,26500
+26.0,La Rioja,Otros,20,15983
+26.0,La Rioja,"Profesiones, artes y oficios",13,21300
+26.0,La Rioja,Sanidad y salud,10,20850
+26.0,La Rioja,Sector Farmacéutico,1,13500
+26.0,La Rioja,Turismo y restauración,11,15160
+26.0,La Rioja,Ventas al detalle,10,14400
+27.0,Lugo,Administración de empresas,7,13800
+27.0,Lugo,Atención a clientes,13,21150
+27.0,Lugo,"Calidad, producción e I+D",3,22166
+27.0,Lugo,Comercial y ventas,30,23640
+27.0,Lugo,"Compras, logística y almacén",2,9000
+27.0,Lugo,Diseño y artes gráficas,1,16200
+27.0,Lugo,Finanzas y banca,4,19500
+27.0,Lugo,Informática y telecomunicaciones,3,16500
+27.0,Lugo,Ingenieros y técnicos,3,18000
+27.0,Lugo,Inmobiliario y construcción,3,18000
+27.0,Lugo,"Profesiones, artes y oficios",17,16127
+27.0,Lugo,Turismo y restauración,5,22450
+27.0,Lugo,Ventas al detalle,1,14000
+28.0,Madrid,Administración Pública,61,25266
+28.0,Madrid,Administración de empresas,874,20140
+28.0,Madrid,Atención a clientes,592,15744
+28.0,Madrid,"Calidad, producción e I+D",95,21902
+28.0,Madrid,Comercial y ventas,1274,23249
+28.0,Madrid,"Compras, logística y almacén",354,19851
+28.0,Madrid,Diseño y artes gráficas,48,19604
+28.0,Madrid,Educación y formación,77,20460
+28.0,Madrid,Finanzas y banca,175,23470
+28.0,Madrid,Informática y telecomunicaciones,2077,30843
+28.0,Madrid,Ingenieros y técnicos,436,25491
+28.0,Madrid,Inmobiliario y construcción,247,28220
+28.0,Madrid,Legal,91,23457
+28.0,Madrid,Marketing y comunicación,202,19786
+28.0,Madrid,Otros,624,18888
+28.0,Madrid,"Profesiones, artes y oficios",611,17757
+28.0,Madrid,Recursos humanos,386,19074
+28.0,Madrid,Sanidad y salud,398,20893
+28.0,Madrid,Sector Farmacéutico,35,21300
+28.0,Madrid,Turismo y restauración,680,18019
+28.0,Madrid,Ventas al detalle,276,17365
+29.0,Málaga,Administración de empresas,45,16000
+29.0,Málaga,Atención a clientes,80,16587
+29.0,Málaga,"Calidad, producción e I+D",4,16750
+29.0,Málaga,Comercial y ventas,245,25039
+29.0,Málaga,"Compras, logística y almacén",38,20128
+29.0,Málaga,Diseño y artes gráficas,6,21000
+29.0,Málaga,Educación y formación,12,22725
+29.0,Málaga,Finanzas y banca,12,33575
+29.0,Málaga,Informática y telecomunicaciones,77,29103
+29.0,Málaga,Ingenieros y técnicos,22,25566
+29.0,Málaga,Inmobiliario y construcción,28,36264
+29.0,Málaga,Legal,7,21000
+29.0,Málaga,Marketing y comunicación,14,19000
+29.0,Málaga,Otros,87,19092
+29.0,Málaga,"Profesiones, artes y oficios",53,16555
+29.0,Málaga,Recursos humanos,11,32375
+29.0,Málaga,Sanidad y salud,55,20427
+29.0,Málaga,Turismo y restauración,199,19223
+29.0,Málaga,Ventas al detalle,61,18142
+30.0,Murcia,Administración de empresas,31,18380
+30.0,Murcia,Atención a clientes,28,17880
+30.0,Murcia,"Calidad, producción e I+D",12,22285
+30.0,Murcia,Comercial y ventas,121,22578
+30.0,Murcia,"Compras, logística y almacén",21,15300
+30.0,Murcia,Diseño y artes gráficas,3,19500
+30.0,Murcia,Educación y formación,11,9000
+30.0,Murcia,Finanzas y banca,2,22500
+30.0,Murcia,Informática y telecomunicaciones,42,23681
+30.0,Murcia,Ingenieros y técnicos,23,24227
+30.0,Murcia,Inmobiliario y construcción,17,22588
+30.0,Murcia,Marketing y comunicación,8,16850
+30.0,Murcia,Otros,42,15635
+30.0,Murcia,"Profesiones, artes y oficios",44,16703
+30.0,Murcia,Recursos humanos,9,23375
+30.0,Murcia,Sanidad y salud,20,17850
+30.0,Murcia,Turismo y restauración,33,15810
+30.0,Murcia,Ventas al detalle,27,17680
+31.0,Navarra,Administración de empresas,18,15860
+31.0,Navarra,Atención a clientes,12,15450
+31.0,Navarra,"Calidad, producción e I+D",16,20583
+31.0,Navarra,Comercial y ventas,50,20996
+31.0,Navarra,"Compras, logística y almacén",28,24250
+31.0,Navarra,Educación y formación,4,22500
+31.0,Navarra,Informática y telecomunicaciones,30,29125
+31.0,Navarra,Ingenieros y técnicos,28,30416
+31.0,Navarra,Inmobiliario y construcción,12,29400
+31.0,Navarra,Marketing y comunicación,7,19500
+31.0,Navarra,Otros,34,21375
+31.0,Navarra,"Profesiones, artes y oficios",36,19457
+31.0,Navarra,Recursos humanos,10,9000
+31.0,Navarra,Sanidad y salud,21,23250
+31.0,Navarra,Turismo y restauración,33,19929
+31.0,Navarra,Ventas al detalle,14,12260
+32.0,Ourense,Administración de empresas,8,25833
+32.0,Ourense,Atención a clientes,3,11000
+32.0,Ourense,Comercial y ventas,26,21233
+32.0,Ourense,Informática y telecomunicaciones,5,18000
+32.0,Ourense,Otros,8,17300
+32.0,Ourense,"Profesiones, artes y oficios",14,19650
+32.0,Ourense,Sanidad y salud,4,25500
+32.0,Ourense,Ventas al detalle,3,19500
+33.0,Asturias,Administración de empresas,30,19242
+33.0,Asturias,Atención a clientes,30,16170
+33.0,Asturias,"Calidad, producción e I+D",10,9900
+33.0,Asturias,Comercial y ventas,118,23540
+33.0,Asturias,"Compras, logística y almacén",11,15800
+33.0,Asturias,Diseño y artes gráficas,4,18000
+33.0,Asturias,Educación y formación,2,11700
+33.0,Asturias,Informática y telecomunicaciones,42,27866
+33.0,Asturias,Ingenieros y técnicos,18,45500
+33.0,Asturias,Inmobiliario y construcción,3,33000
+33.0,Asturias,Legal,5,16500
+33.0,Asturias,Marketing y comunicación,9,25483
+33.0,Asturias,Otros,44,18409
+33.0,Asturias,"Profesiones, artes y oficios",32,20100
+33.0,Asturias,Sanidad y salud,9,20160
+33.0,Asturias,Turismo y restauración,52,21750
+33.0,Asturias,Ventas al detalle,20,12075
+34.0,Palencia,"Calidad, producción e I+D",5,27500
+34.0,Palencia,Comercial y ventas,10,24540
+34.0,Palencia,Finanzas y banca,1,19500
+34.0,Palencia,Informática y telecomunicaciones,1,13500
+34.0,Palencia,Ingenieros y técnicos,4,34500
+34.0,Palencia,Otros,9,16875
+34.0,Palencia,"Profesiones, artes y oficios",5,16000
+34.0,Palencia,Sanidad y salud,5,18750
+34.0,Palencia,Ventas al detalle,2,13500
+35.0,Las Palmas,Administración de empresas,22,20787
+35.0,Las Palmas,Atención a clientes,24,18510
+35.0,Las Palmas,"Calidad, producción e I+D",3,15000
+35.0,Las Palmas,Comercial y ventas,87,27743
+35.0,Las Palmas,"Compras, logística y almacén",20,16200
+35.0,Las Palmas,Diseño y artes gráficas,2,15300
+35.0,Las Palmas,Educación y formación,3,21600
+35.0,Las Palmas,Informática y telecomunicaciones,19,36750
+35.0,Las Palmas,Ingenieros y técnicos,16,18900
+35.0,Las Palmas,Inmobiliario y construcción,11,22280
+35.0,Las Palmas,Marketing y comunicación,1,18000
+35.0,Las Palmas,Otros,28,20500
+35.0,Las Palmas,"Profesiones, artes y oficios",21,14992
+35.0,Las Palmas,Recursos humanos,4,29000
+35.0,Las Palmas,Sanidad y salud,13,26850
+35.0,Las Palmas,Sector Farmacéutico,2,30000
+35.0,Las Palmas,Turismo y restauración,46,18400
+35.0,Las Palmas,Ventas al detalle,17,16260
+36.0,Pontevedra,Administración de empresas,28,15731
+36.0,Pontevedra,Atención a clientes,15,14450
+36.0,Pontevedra,"Calidad, producción e I+D",15,17100
+36.0,Pontevedra,Comercial y ventas,85,21065
+36.0,Pontevedra,"Compras, logística y almacén",13,12240
+36.0,Pontevedra,Diseño y artes gráficas,2,30500
+36.0,Pontevedra,Finanzas y banca,6,16400
+36.0,Pontevedra,Informática y telecomunicaciones,26,21750
+36.0,Pontevedra,Ingenieros y técnicos,13,12400
+36.0,Pontevedra,Inmobiliario y construcción,8,27250
+36.0,Pontevedra,Otros,29,14112
+36.0,Pontevedra,"Profesiones, artes y oficios",21,17181
+36.0,Pontevedra,Recursos humanos,6,18000
+36.0,Pontevedra,Sanidad y salud,11,20325
+36.0,Pontevedra,Turismo y restauración,15,15487
+36.0,Pontevedra,Ventas al detalle,11,15500
+37.0,Salamanca,Administración de empresas,2,29000
+37.0,Salamanca,Atención a clientes,6,16325
+37.0,Salamanca,"Calidad, producción e I+D",2,19800
+37.0,Salamanca,Comercial y ventas,35,19566
+37.0,Salamanca,Educación y formación,3,31500
+37.0,Salamanca,Finanzas y banca,2,19500
+37.0,Salamanca,Informática y telecomunicaciones,18,20000
+37.0,Salamanca,Ingenieros y técnicos,5,20000
+37.0,Salamanca,Inmobiliario y construcción,4,19166
+37.0,Salamanca,Marketing y comunicación,4,34500
+37.0,Salamanca,Otros,5,16200
+37.0,Salamanca,"Profesiones, artes y oficios",8,19500
+37.0,Salamanca,Sanidad y salud,8,30000
+37.0,Salamanca,Turismo y restauración,15,15340
+37.0,Salamanca,Ventas al detalle,7,20250
+38.0,Santa Cruz De Tenerife,Administración de empresas,22,18877
+38.0,Santa Cruz De Tenerife,Atención a clientes,23,18155
+38.0,Santa Cruz De Tenerife,Comercial y ventas,68,26206
+38.0,Santa Cruz De Tenerife,"Compras, logística y almacén",10,9450
+38.0,Santa Cruz De Tenerife,Educación y formación,16,15600
+38.0,Santa Cruz De Tenerife,Finanzas y banca,3,7200
+38.0,Santa Cruz De Tenerife,Informática y telecomunicaciones,26,22454
+38.0,Santa Cruz De Tenerife,Ingenieros y técnicos,7,15000
+38.0,Santa Cruz De Tenerife,Inmobiliario y construcción,10,24966
+38.0,Santa Cruz De Tenerife,Marketing y comunicación,5,16200
+38.0,Santa Cruz De Tenerife,Otros,23,18728
+38.0,Santa Cruz De Tenerife,"Profesiones, artes y oficios",16,16525
+38.0,Santa Cruz De Tenerife,Sanidad y salud,29,22433
+38.0,Santa Cruz De Tenerife,Turismo y restauración,41,18872
+38.0,Santa Cruz De Tenerife,Ventas al detalle,14,22140
+39.0,Cantabria,Administración de empresas,25,26100
+39.0,Cantabria,Atención a clientes,10,17166
+39.0,Cantabria,"Calidad, producción e I+D",7,19500
+39.0,Cantabria,Comercial y ventas,57,24290
+39.0,Cantabria,"Compras, logística y almacén",16,18375
+39.0,Cantabria,Educación y formación,3,16500
+39.0,Cantabria,Informática y telecomunicaciones,17,33166
+39.0,Cantabria,Ingenieros y técnicos,8,18000
+39.0,Cantabria,Inmobiliario y construcción,5,22500
+39.0,Cantabria,Legal,3,21300
+39.0,Cantabria,Marketing y comunicación,2,6300
+39.0,Cantabria,Otros,25,18916
+39.0,Cantabria,"Profesiones, artes y oficios",25,18872
+39.0,Cantabria,Recursos humanos,6,35000
+39.0,Cantabria,Sanidad y salud,10,28500
+39.0,Cantabria,Turismo y restauración,23,18500
+39.0,Cantabria,Ventas al detalle,13,9000
+40.0,Segovia,Administración de empresas,1,18000
+40.0,Segovia,Atención a clientes,8,21000
+40.0,Segovia,Comercial y ventas,11,21080
+40.0,Segovia,Finanzas y banca,1,27600
+40.0,Segovia,Sector Farmacéutico,1,27000
+40.0,Segovia,Turismo y restauración,5,16500
+40.0,Segovia,Ventas al detalle,3,13800
+41.0,Sevilla,Administración de empresas,44,16956
+41.0,Sevilla,Atención a clientes,38,15930
+41.0,Sevilla,"Calidad, producción e I+D",9,18750
+41.0,Sevilla,Comercial y ventas,225,21483
+41.0,Sevilla,"Compras, logística y almacén",34,20907
+41.0,Sevilla,Diseño y artes gráficas,1,21000
+41.0,Sevilla,Educación y formación,8,12700
+41.0,Sevilla,Finanzas y banca,6,25950
+41.0,Sevilla,Informática y telecomunicaciones,129,26145
+41.0,Sevilla,Ingenieros y técnicos,55,25315
+41.0,Sevilla,Inmobiliario y construcción,19,19087
+41.0,Sevilla,Legal,5,18000
+41.0,Sevilla,Marketing y comunicación,20,15225
+41.0,Sevilla,Otros,89,16152
+41.0,Sevilla,"Profesiones, artes y oficios",55,17558
+41.0,Sevilla,Recursos humanos,18,19875
+41.0,Sevilla,Sanidad y salud,45,20950
+41.0,Sevilla,Sector Farmacéutico,1,15000
+41.0,Sevilla,Turismo y restauración,91,15672
+41.0,Sevilla,Ventas al detalle,30,15214
+42.0,Soria,Atención a clientes,3,6000
+42.0,Soria,Comercial y ventas,5,19200
+42.0,Soria,"Compras, logística y almacén",4,16500
+42.0,Soria,Finanzas y banca,1,19500
+42.0,Soria,Informática y telecomunicaciones,1,24000
+42.0,Soria,Ingenieros y técnicos,3,20000
+42.0,Soria,Otros,2,15000
+42.0,Soria,"Profesiones, artes y oficios",6,25500
+42.0,Soria,Sanidad y salud,3,22800
+42.0,Soria,Turismo y restauración,2,24000
+42.0,Soria,Ventas al detalle,2,15000
+43.0,Tarragona,Administración de empresas,33,20688
+43.0,Tarragona,Atención a clientes,26,17830
+43.0,Tarragona,"Calidad, producción e I+D",15,25722
+43.0,Tarragona,Comercial y ventas,86,25105
+43.0,Tarragona,"Compras, logística y almacén",40,22266
+43.0,Tarragona,Diseño y artes gráficas,3,16800
+43.0,Tarragona,Educación y formación,3,21500
+43.0,Tarragona,Finanzas y banca,3,27250
+43.0,Tarragona,Informática y telecomunicaciones,22,26000
+43.0,Tarragona,Ingenieros y técnicos,31,24750
+43.0,Tarragona,Inmobiliario y construcción,12,21240
+43.0,Tarragona,Marketing y comunicación,10,21750
+43.0,Tarragona,Otros,44,19336
+43.0,Tarragona,"Profesiones, artes y oficios",40,22875
+43.0,Tarragona,Recursos humanos,10,21000
+43.0,Tarragona,Sanidad y salud,20,24800
+43.0,Tarragona,Turismo y restauración,25,18792
+43.0,Tarragona,Ventas al detalle,16,17575
+44.0,Teruel,Comercial y ventas,9,14750
+44.0,Teruel,"Compras, logística y almacén",10,14400
+44.0,Teruel,Otros,8,18000
+44.0,Teruel,Recursos humanos,2,18000
+44.0,Teruel,Sanidad y salud,4,14400
+44.0,Teruel,Ventas al detalle,3,19466
+45.0,Toledo,Administración de empresas,10,20187
+45.0,Toledo,Atención a clientes,8,11475
+45.0,Toledo,Comercial y ventas,33,19395
+45.0,Toledo,"Compras, logística y almacén",15,22914
+45.0,Toledo,Diseño y artes gráficas,1,16200
+45.0,Toledo,Ingenieros y técnicos,7,19500
+45.0,Toledo,Legal,1,13500
+45.0,Toledo,Marketing y comunicación,2,14400
+45.0,Toledo,Otros,16,18500
+45.0,Toledo,"Profesiones, artes y oficios",15,15128
+45.0,Toledo,Recursos humanos,6,22000
+45.0,Toledo,Sanidad y salud,21,17250
+45.0,Toledo,Turismo y restauración,11,19100
+45.0,Toledo,Ventas al detalle,6,12600
+46.0,Valencia,Administración Pública,3,36000
+46.0,Valencia,Administración de empresas,96,19134
+46.0,Valencia,Atención a clientes,88,17760
+46.0,Valencia,"Calidad, producción e I+D",48,20960
+46.0,Valencia,Comercial y ventas,292,22225
+46.0,Valencia,"Compras, logística y almacén",89,20589
+46.0,Valencia,Diseño y artes gráficas,7,20700
+46.0,Valencia,Educación y formación,11,16375
+46.0,Valencia,Finanzas y banca,3,23000
+46.0,Valencia,Informática y telecomunicaciones,147,26483
+46.0,Valencia,Ingenieros y técnicos,79,25089
+46.0,Valencia,Inmobiliario y construcción,56,25767
+46.0,Valencia,Legal,11,15787
+46.0,Valencia,Marketing y comunicación,31,18761
+46.0,Valencia,Otros,151,17151
+46.0,Valencia,"Profesiones, artes y oficios",98,18859
+46.0,Valencia,Recursos humanos,39,20011
+46.0,Valencia,Sanidad y salud,52,22372
+46.0,Valencia,Sector Farmacéutico,2,20000
+46.0,Valencia,Turismo y restauración,145,17793
+46.0,Valencia,Ventas al detalle,50,18194
+47.0,Valladolid,Administración de empresas,17,19125
+47.0,Valladolid,Atención a clientes,23,16430
+47.0,Valladolid,"Calidad, producción e I+D",8,10800
+47.0,Valladolid,Comercial y ventas,57,20360
+47.0,Valladolid,"Compras, logística y almacén",13,12975
+47.0,Valladolid,Finanzas y banca,2,13500
+47.0,Valladolid,Informática y telecomunicaciones,33,26000
+47.0,Valladolid,Ingenieros y técnicos,24,22200
+47.0,Valladolid,Inmobiliario y construcción,8,30200
+47.0,Valladolid,Otros,25,18428
+47.0,Valladolid,"Profesiones, artes y oficios",36,18278
+47.0,Valladolid,Recursos humanos,7,18250
+47.0,Valladolid,Sanidad y salud,16,22333
+47.0,Valladolid,Turismo y restauración,19,16462
+47.0,Valladolid,Ventas al detalle,31,18337
+48.0,Vizcaya,Administración de empresas,58,20373
+48.0,Vizcaya,Atención a clientes,41,15670
+48.0,Vizcaya,"Calidad, producción e I+D",14,17400
+48.0,Vizcaya,Comercial y ventas,137,23534
+48.0,Vizcaya,"Compras, logística y almacén",17,16800
+48.0,Vizcaya,Diseño y artes gráficas,3,27750
+48.0,Vizcaya,Finanzas y banca,9,29916
+48.0,Vizcaya,Informática y telecomunicaciones,82,27765
+48.0,Vizcaya,Ingenieros y técnicos,46,26381
+48.0,Vizcaya,Inmobiliario y construcción,16,32666
+48.0,Vizcaya,Legal,5,30000
+48.0,Vizcaya,Marketing y comunicación,8,23933
+48.0,Vizcaya,Otros,48,19581
+48.0,Vizcaya,"Profesiones, artes y oficios",67,18929
+48.0,Vizcaya,Recursos humanos,24,25500
+48.0,Vizcaya,Sanidad y salud,29,28166
+48.0,Vizcaya,Sector Farmacéutico,3,19500
+48.0,Vizcaya,Turismo y restauración,44,20781
+48.0,Vizcaya,Ventas al detalle,39,16746
+49.0,Zamora,Administración de empresas,2,19500
+49.0,Zamora,Comercial y ventas,4,23400
+49.0,Zamora,Ingenieros y técnicos,1,21000
+49.0,Zamora,"Profesiones, artes y oficios",3,21000
+49.0,Zamora,Sanidad y salud,4,22500
+49.0,Zamora,Turismo y restauración,3,12600
+50.0,Zaragoza,Administración de empresas,56,15626
+50.0,Zaragoza,Atención a clientes,49,16800
+50.0,Zaragoza,"Calidad, producción e I+D",25,19071
+50.0,Zaragoza,Comercial y ventas,117,23018
+50.0,Zaragoza,"Compras, logística y almacén",44,19480
+50.0,Zaragoza,Educación y formación,14,18700
+50.0,Zaragoza,Finanzas y banca,10,22562
+50.0,Zaragoza,Informática y telecomunicaciones,77,24406
+50.0,Zaragoza,Ingenieros y técnicos,60,22733
+50.0,Zaragoza,Inmobiliario y construcción,16,26750
+50.0,Zaragoza,Marketing y comunicación,20,19125
+50.0,Zaragoza,Otros,54,19237
+50.0,Zaragoza,"Profesiones, artes y oficios",101,19361
+50.0,Zaragoza,Recursos humanos,17,17700
+50.0,Zaragoza,Sanidad y salud,42,21127
+50.0,Zaragoza,Turismo y restauración,44,18290
+50.0,Zaragoza,Ventas al detalle,31,16770
+51.0,Melilla,Comercial y ventas,2,15000
+51.0,Melilla,"Profesiones, artes y oficios",1,16200
+51.0,Melilla,Sanidad y salud,3,17500
+52.0,Ceuta,Comercial y ventas,2,16200
+52.0,Ceuta,Marketing y comunicación,2,18000
+52.0,Ceuta,Otros,1,13500
+52.0,Ceuta,Sanidad y salud,3,53000
+7.0,Illes Balears,Administración Pública,0,0
+7.0,Illes Balears,Sector Farmacéutico,0,0
+33.0,Asturias,Recursos humanos,0,0
+33.0,Asturias,Administración Pública,0,0
+33.0,Asturias,Finanzas y banca,0,0
+33.0,Asturias,Sector Farmacéutico,0,0
+15.0,A Coruña,Diseño y artes gráficas,0,0
+15.0,A Coruña,Legal,0,0
+15.0,A Coruña,Sector Farmacéutico,0,0
+17.0,Girona,Diseño y artes gráficas,0,0
+17.0,Girona,Educación y formación,0,0
+17.0,Girona,Administración Pública,0,0
+17.0,Girona,Sector Farmacéutico,0,0
+35.0,Las Palmas,Administración Pública,0,0
+35.0,Las Palmas,Legal,0,0
+35.0,Las Palmas,Finanzas y banca,0,0
+36.0,Pontevedra,Educación y formación,0,0
+36.0,Pontevedra,Marketing y comunicación,0,0
+36.0,Pontevedra,Administración Pública,0,0
+36.0,Pontevedra,Legal,0,0
+36.0,Pontevedra,Sector Farmacéutico,0,0
+38.0,Santa Cruz De Tenerife,"Calidad, producción e I+D",0,0
+38.0,Santa Cruz De Tenerife,Diseño y artes gráficas,0,0
+38.0,Santa Cruz De Tenerife,Recursos humanos,0,0
+38.0,Santa Cruz De Tenerife,Administración Pública,0,0
+38.0,Santa Cruz De Tenerife,Legal,0,0
+38.0,Santa Cruz De Tenerife,Sector Farmacéutico,0,0
+39.0,Cantabria,Diseño y artes gráficas,0,0
+39.0,Cantabria,Administración Pública,0,0
+39.0,Cantabria,Finanzas y banca,0,0
+39.0,Cantabria,Sector Farmacéutico,0,0
+29.0,Málaga,Administración Pública,0,0
+29.0,Málaga,Sector Farmacéutico,0,0
+4.0,Almería,"Calidad, producción e I+D",0,0
+4.0,Almería,Diseño y artes gráficas,0,0
+4.0,Almería,Informática y telecomunicaciones,0,0
+4.0,Almería,Turismo y restauración,0,0
+4.0,Almería,Ventas al detalle,0,0
+4.0,Almería,Inmobiliario y construcción,0,0
+4.0,Almería,Administración Pública,0,0
+4.0,Almería,Legal,0,0
+4.0,Almería,Finanzas y banca,0,0
+4.0,Almería,Sector Farmacéutico,0,0
+30.0,Murcia,Administración Pública,0,0
+30.0,Murcia,Legal,0,0
+30.0,Murcia,Sector Farmacéutico,0,0
+2.0,Albacete,"Calidad, producción e I+D",0,0
+2.0,Albacete,Diseño y artes gráficas,0,0
+2.0,Albacete,Educación y formación,0,0
+2.0,Albacete,Administración Pública,0,0
+2.0,Albacete,Legal,0,0
+2.0,Albacete,Finanzas y banca,0,0
+2.0,Albacete,Sector Farmacéutico,0,0
+5.0,Ávila,Administración de empresas,0,0
+5.0,Ávila,Atención a clientes,0,0
+5.0,Ávila,"Calidad, producción e I+D",0,0
+5.0,Ávila,"Compras, logística y almacén",0,0
+5.0,Ávila,Diseño y artes gráficas,0,0
+5.0,Ávila,Ingenieros y técnicos,0,0
+5.0,Ávila,Marketing y comunicación,0,0
+5.0,Ávila,Recursos humanos,0,0
+5.0,Ávila,Turismo y restauración,0,0
+5.0,Ávila,Inmobiliario y construcción,0,0
+5.0,Ávila,Administración Pública,0,0
+5.0,Ávila,Legal,0,0
+5.0,Ávila,Finanzas y banca,0,0
+5.0,Ávila,Sector Farmacéutico,0,0
+1.0,Álava,Inmobiliario y construcción,0,0
+1.0,Álava,Administración Pública,0,0
+1.0,Álava,Legal,0,0
+1.0,Álava,Finanzas y banca,0,0
+1.0,Álava,Sector Farmacéutico,0,0
+6.0,Badajoz,Administración de empresas,0,0
+6.0,Badajoz,Diseño y artes gráficas,0,0
+6.0,Badajoz,Educación y formación,0,0
+6.0,Badajoz,Ingenieros y técnicos,0,0
+6.0,Badajoz,Marketing y comunicación,0,0
+6.0,Badajoz,Recursos humanos,0,0
+6.0,Badajoz,Inmobiliario y construcción,0,0
+6.0,Badajoz,Legal,0,0
+6.0,Badajoz,Finanzas y banca,0,0
+6.0,Badajoz,Sector Farmacéutico,0,0
+3.0,Alicante,Finanzas y banca,0,0
+3.0,Alicante,Sector Farmacéutico,0,0
+32.0,Ourense,"Calidad, producción e I+D",0,0
+32.0,Ourense,"Compras, logística y almacén",0,0
+32.0,Ourense,Diseño y artes gráficas,0,0
+32.0,Ourense,Educación y formación,0,0
+32.0,Ourense,Ingenieros y técnicos,0,0
+32.0,Ourense,Marketing y comunicación,0,0
+32.0,Ourense,Recursos humanos,0,0
+32.0,Ourense,Turismo y restauración,0,0
+32.0,Ourense,Inmobiliario y construcción,0,0
+32.0,Ourense,Administración Pública,0,0
+32.0,Ourense,Legal,0,0
+32.0,Ourense,Finanzas y banca,0,0
+32.0,Ourense,Sector Farmacéutico,0,0
+9.0,Burgos,Diseño y artes gráficas,0,0
+9.0,Burgos,Educación y formación,0,0
+9.0,Burgos,Marketing y comunicación,0,0
+9.0,Burgos,Administración Pública,0,0
+9.0,Burgos,Sector Farmacéutico,0,0
+10.0,Cáceres,Administración de empresas,0,0
+10.0,Cáceres,Atención a clientes,0,0
+10.0,Cáceres,"Compras, logística y almacén",0,0
+10.0,Cáceres,Diseño y artes gráficas,0,0
+10.0,Cáceres,Educación y formación,0,0
+10.0,Cáceres,Ingenieros y técnicos,0,0
+10.0,Cáceres,Marketing y comunicación,0,0
+10.0,Cáceres,Otros,0,0
+10.0,Cáceres,Recursos humanos,0,0
+10.0,Cáceres,Ventas al detalle,0,0
+10.0,Cáceres,Inmobiliario y construcción,0,0
+10.0,Cáceres,Administración Pública,0,0
+10.0,Cáceres,Legal,0,0
+10.0,Cáceres,Finanzas y banca,0,0
+10.0,Cáceres,Sector Farmacéutico,0,0
+11.0,Cádiz,Diseño y artes gráficas,0,0
+11.0,Cádiz,Educación y formación,0,0
+11.0,Cádiz,Marketing y comunicación,0,0
+11.0,Cádiz,Recursos humanos,0,0
+11.0,Cádiz,Legal,0,0
+11.0,Cádiz,Sector Farmacéutico,0,0
+12.0,Castellón,Recursos humanos,0,0
+12.0,Castellón,Administración Pública,0,0
+12.0,Castellón,Finanzas y banca,0,0
+12.0,Castellón,Sector Farmacéutico,0,0
+13.0,Ciudad Real,Administración de empresas,0,0
+13.0,Ciudad Real,"Calidad, producción e I+D",0,0
+13.0,Ciudad Real,"Compras, logística y almacén",0,0
+13.0,Ciudad Real,Diseño y artes gráficas,0,0
+13.0,Ciudad Real,Marketing y comunicación,0,0
+13.0,Ciudad Real,Otros,0,0
+13.0,Ciudad Real,Recursos humanos,0,0
+13.0,Ciudad Real,Turismo y restauración,0,0
+13.0,Ciudad Real,Inmobiliario y construcción,0,0
+13.0,Ciudad Real,Administración Pública,0,0
+13.0,Ciudad Real,Legal,0,0
+13.0,Ciudad Real,Finanzas y banca,0,0
+13.0,Ciudad Real,Sector Farmacéutico,0,0
+23.0,Jaén,"Calidad, producción e I+D",0,0
+23.0,Jaén,"Compras, logística y almacén",0,0
+23.0,Jaén,Diseño y artes gráficas,0,0
+23.0,Jaén,Educación y formación,0,0
+23.0,Jaén,Informática y telecomunicaciones,0,0
+23.0,Jaén,Recursos humanos,0,0
+23.0,Jaén,Sanidad y salud,0,0
+23.0,Jaén,Inmobiliario y construcción,0,0
+23.0,Jaén,Administración Pública,0,0
+23.0,Jaén,Legal,0,0
+23.0,Jaén,Sector Farmacéutico,0,0
+14.0,Córdoba,"Calidad, producción e I+D",0,0
+14.0,Córdoba,Diseño y artes gráficas,0,0
+14.0,Córdoba,Educación y formación,0,0
+14.0,Córdoba,Ingenieros y técnicos,0,0
+14.0,Córdoba,Marketing y comunicación,0,0
+14.0,Córdoba,Administración Pública,0,0
+14.0,Córdoba,Legal,0,0
+14.0,Córdoba,Finanzas y banca,0,0
+16.0,Cuenca,Administración de empresas,0,0
+16.0,Cuenca,Atención a clientes,0,0
+16.0,Cuenca,"Calidad, producción e I+D",0,0
+16.0,Cuenca,"Compras, logística y almacén",0,0
+16.0,Cuenca,Diseño y artes gráficas,0,0
+16.0,Cuenca,Educación y formación,0,0
+16.0,Cuenca,Informática y telecomunicaciones,0,0
+16.0,Cuenca,Ingenieros y técnicos,0,0
+16.0,Cuenca,Marketing y comunicación,0,0
+16.0,Cuenca,Recursos humanos,0,0
+16.0,Cuenca,Sanidad y salud,0,0
+16.0,Cuenca,Turismo y restauración,0,0
+16.0,Cuenca,Inmobiliario y construcción,0,0
+16.0,Cuenca,Administración Pública,0,0
+16.0,Cuenca,Legal,0,0
+16.0,Cuenca,Finanzas y banca,0,0
+16.0,Cuenca,Sector Farmacéutico,0,0
+18.0,Granada,"Calidad, producción e I+D",0,0
+18.0,Granada,Diseño y artes gráficas,0,0
+18.0,Granada,Educación y formación,0,0
+18.0,Granada,Recursos humanos,0,0
+18.0,Granada,Inmobiliario y construcción,0,0
+18.0,Granada,Administración Pública,0,0
+18.0,Granada,Legal,0,0
+18.0,Granada,Finanzas y banca,0,0
+19.0,Guadalajara,Educación y formación,0,0
+19.0,Guadalajara,Marketing y comunicación,0,0
+19.0,Guadalajara,Inmobiliario y construcción,0,0
+19.0,Guadalajara,Administración Pública,0,0
+19.0,Guadalajara,Legal,0,0
+19.0,Guadalajara,Finanzas y banca,0,0
+19.0,Guadalajara,Sector Farmacéutico,0,0
+20.0,Guipúzcoa,Recursos humanos,0,0
+20.0,Guipúzcoa,Administración Pública,0,0
+20.0,Guipúzcoa,Finanzas y banca,0,0
+20.0,Guipúzcoa,Sector Farmacéutico,0,0
+21.0,Huelva,Administración de empresas,0,0
+21.0,Huelva,"Calidad, producción e I+D",0,0
+21.0,Huelva,Diseño y artes gráficas,0,0
+21.0,Huelva,Educación y formación,0,0
+21.0,Huelva,Ingenieros y técnicos,0,0
+21.0,Huelva,Marketing y comunicación,0,0
+21.0,Huelva,Administración Pública,0,0
+21.0,Huelva,Legal,0,0
+21.0,Huelva,Finanzas y banca,0,0
+21.0,Huelva,Sector Farmacéutico,0,0
+22.0,Huesca,Administración de empresas,0,0
+22.0,Huesca,Atención a clientes,0,0
+22.0,Huesca,"Calidad, producción e I+D",0,0
+22.0,Huesca,Diseño y artes gráficas,0,0
+22.0,Huesca,Ingenieros y técnicos,0,0
+22.0,Huesca,Marketing y comunicación,0,0
+22.0,Huesca,Otros,0,0
+22.0,Huesca,Recursos humanos,0,0
+22.0,Huesca,Administración Pública,0,0
+22.0,Huesca,Legal,0,0
+22.0,Huesca,Sector Farmacéutico,0,0
+24.0,León,Diseño y artes gráficas,0,0
+24.0,León,Educación y formación,0,0
+24.0,León,Administración Pública,0,0
+24.0,León,Legal,0,0
+24.0,León,Finanzas y banca,0,0
+24.0,León,Sector Farmacéutico,0,0
+25.0,Lleida,Diseño y artes gráficas,0,0
+25.0,Lleida,Legal,0,0
+26.0,La Rioja,Diseño y artes gráficas,0,0
+26.0,La Rioja,Educación y formación,0,0
+26.0,La Rioja,Marketing y comunicación,0,0
+26.0,La Rioja,Recursos humanos,0,0
+26.0,La Rioja,Administración Pública,0,0
+26.0,La Rioja,Legal,0,0
+42.0,Soria,Administración de empresas,0,0
+42.0,Soria,"Calidad, producción e I+D",0,0
+42.0,Soria,Diseño y artes gráficas,0,0
+42.0,Soria,Educación y formación,0,0
+42.0,Soria,Marketing y comunicación,0,0
+42.0,Soria,Recursos humanos,0,0
+42.0,Soria,Inmobiliario y construcción,0,0
+42.0,Soria,Administración Pública,0,0
+42.0,Soria,Legal,0,0
+42.0,Soria,Sector Farmacéutico,0,0
+31.0,Navarra,Diseño y artes gráficas,0,0
+31.0,Navarra,Administración Pública,0,0
+31.0,Navarra,Legal,0,0
+31.0,Navarra,Finanzas y banca,0,0
+31.0,Navarra,Sector Farmacéutico,0,0
+52.0,Ceuta,Administración de empresas,0,0
+52.0,Ceuta,Atención a clientes,0,0
+52.0,Ceuta,"Calidad, producción e I+D",0,0
+52.0,Ceuta,"Compras, logística y almacén",0,0
+52.0,Ceuta,Diseño y artes gráficas,0,0
+52.0,Ceuta,Educación y formación,0,0
+52.0,Ceuta,Informática y telecomunicaciones,0,0
+52.0,Ceuta,Ingenieros y técnicos,0,0
+52.0,Ceuta,"Profesiones, artes y oficios",0,0
+52.0,Ceuta,Recursos humanos,0,0
+52.0,Ceuta,Turismo y restauración,0,0
+52.0,Ceuta,Ventas al detalle,0,0
+52.0,Ceuta,Inmobiliario y construcción,0,0
+52.0,Ceuta,Administración Pública,0,0
+52.0,Ceuta,Legal,0,0
+52.0,Ceuta,Finanzas y banca,0,0
+52.0,Ceuta,Sector Farmacéutico,0,0
+27.0,Lugo,Educación y formación,0,0
+27.0,Lugo,Marketing y comunicación,0,0
+27.0,Lugo,Otros,0,0
+27.0,Lugo,Recursos humanos,0,0
+27.0,Lugo,Sanidad y salud,0,0
+27.0,Lugo,Administración Pública,0,0
+27.0,Lugo,Legal,0,0
+27.0,Lugo,Sector Farmacéutico,0,0
+34.0,Palencia,Administración de empresas,0,0
+34.0,Palencia,Atención a clientes,0,0
+34.0,Palencia,"Compras, logística y almacén",0,0
+34.0,Palencia,Diseño y artes gráficas,0,0
+34.0,Palencia,Educación y formación,0,0
+34.0,Palencia,Marketing y comunicación,0,0
+34.0,Palencia,Recursos humanos,0,0
+34.0,Palencia,Turismo y restauración,0,0
+34.0,Palencia,Inmobiliario y construcción,0,0
+34.0,Palencia,Administración Pública,0,0
+34.0,Palencia,Legal,0,0
+34.0,Palencia,Sector Farmacéutico,0,0
+37.0,Salamanca,"Compras, logística y almacén",0,0
+37.0,Salamanca,Diseño y artes gráficas,0,0
+37.0,Salamanca,Recursos humanos,0,0
+37.0,Salamanca,Administración Pública,0,0
+37.0,Salamanca,Legal,0,0
+37.0,Salamanca,Sector Farmacéutico,0,0
+40.0,Segovia,"Calidad, producción e I+D",0,0
+40.0,Segovia,"Compras, logística y almacén",0,0
+40.0,Segovia,Diseño y artes gráficas,0,0
+40.0,Segovia,Educación y formación,0,0
+40.0,Segovia,Informática y telecomunicaciones,0,0
+40.0,Segovia,Ingenieros y técnicos,0,0
+40.0,Segovia,Marketing y comunicación,0,0
+40.0,Segovia,Otros,0,0
+40.0,Segovia,"Profesiones, artes y oficios",0,0
+40.0,Segovia,Recursos humanos,0,0
+40.0,Segovia,Sanidad y salud,0,0
+40.0,Segovia,Inmobiliario y construcción,0,0
+40.0,Segovia,Administración Pública,0,0
+40.0,Segovia,Legal,0,0
+41.0,Sevilla,Administración Pública,0,0
+45.0,Toledo,"Calidad, producción e I+D",0,0
+45.0,Toledo,Educación y formación,0,0
+45.0,Toledo,Informática y telecomunicaciones,0,0
+45.0,Toledo,Inmobiliario y construcción,0,0
+45.0,Toledo,Administración Pública,0,0
+45.0,Toledo,Finanzas y banca,0,0
+45.0,Toledo,Sector Farmacéutico,0,0
+43.0,Tarragona,Administración Pública,0,0
+43.0,Tarragona,Legal,0,0
+43.0,Tarragona,Sector Farmacéutico,0,0
+44.0,Teruel,Administración de empresas,0,0
+44.0,Teruel,Atención a clientes,0,0
+44.0,Teruel,"Calidad, producción e I+D",0,0
+44.0,Teruel,Diseño y artes gráficas,0,0
+44.0,Teruel,Educación y formación,0,0
+44.0,Teruel,Informática y telecomunicaciones,0,0
+44.0,Teruel,Ingenieros y técnicos,0,0
+44.0,Teruel,Marketing y comunicación,0,0
+44.0,Teruel,"Profesiones, artes y oficios",0,0
+44.0,Teruel,Turismo y restauración,0,0
+44.0,Teruel,Inmobiliario y construcción,0,0
+44.0,Teruel,Administración Pública,0,0
+44.0,Teruel,Legal,0,0
+44.0,Teruel,Finanzas y banca,0,0
+44.0,Teruel,Sector Farmacéutico,0,0
+47.0,Valladolid,Diseño y artes gráficas,0,0
+47.0,Valladolid,Educación y formación,0,0
+47.0,Valladolid,Marketing y comunicación,0,0
+47.0,Valladolid,Administración Pública,0,0
+47.0,Valladolid,Legal,0,0
+47.0,Valladolid,Sector Farmacéutico,0,0
+48.0,Vizcaya,Educación y formación,0,0
+48.0,Vizcaya,Administración Pública,0,0
+49.0,Zamora,Atención a clientes,0,0
+49.0,Zamora,"Calidad, producción e I+D",0,0
+49.0,Zamora,"Compras, logística y almacén",0,0
+49.0,Zamora,Diseño y artes gráficas,0,0
+49.0,Zamora,Educación y formación,0,0
+49.0,Zamora,Informática y telecomunicaciones,0,0
+49.0,Zamora,Marketing y comunicación,0,0
+49.0,Zamora,Otros,0,0
+49.0,Zamora,Recursos humanos,0,0
+49.0,Zamora,Ventas al detalle,0,0
+49.0,Zamora,Inmobiliario y construcción,0,0
+49.0,Zamora,Administración Pública,0,0
+49.0,Zamora,Legal,0,0
+49.0,Zamora,Finanzas y banca,0,0
+49.0,Zamora,Sector Farmacéutico,0,0
+50.0,Zaragoza,Diseño y artes gráficas,0,0
+50.0,Zaragoza,Administración Pública,0,0
+50.0,Zaragoza,Legal,0,0
+50.0,Zaragoza,Sector Farmacéutico,0,0
+51.0,Melilla,Administración de empresas,0,0
+51.0,Melilla,Atención a clientes,0,0
+51.0,Melilla,"Calidad, producción e I+D",0,0
+51.0,Melilla,"Compras, logística y almacén",0,0
+51.0,Melilla,Diseño y artes gráficas,0,0
+51.0,Melilla,Educación y formación,0,0
+51.0,Melilla,Informática y telecomunicaciones,0,0
+51.0,Melilla,Ingenieros y técnicos,0,0
+51.0,Melilla,Marketing y comunicación,0,0
+51.0,Melilla,Otros,0,0
+51.0,Melilla,Recursos humanos,0,0
+51.0,Melilla,Turismo y restauración,0,0
+51.0,Melilla,Ventas al detalle,0,0
+51.0,Melilla,Inmobiliario y construcción,0,0
+51.0,Melilla,Administración Pública,0,0
+51.0,Melilla,Legal,0,0
+51.0,Melilla,Finanzas y banca,0,0
+51.0,Melilla,Sector Farmacéutico,0,0

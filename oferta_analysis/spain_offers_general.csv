@@ -1,0 +1,53 @@
+cartodb_id,province,counts,salary,text
+1.0,Álava,345,21592,Province Álava<br>Id 1.0
+2.0,Albacete,117,20936,Province Albacete<br>Id 2.0
+3.0,Alicante,809,19753,Province Alicante<br>Id 3.0
+4.0,Almería,126,23418,Province Almería<br>Id 4.0
+5.0,Ávila,26,18161,Province Ávila<br>Id 5.0
+6.0,Badajoz,106,19022,Province Badajoz<br>Id 6.0
+7.0,Illes Balears,1081,20065,Province Illes Balears<br>Id 7.0
+8.0,Barcelona,8026,21655,Province Barcelona<br>Id 8.0
+9.0,Burgos,247,19397,Province Burgos<br>Id 9.0
+10.0,Cáceres,52,21230,Province Cáceres<br>Id 10.0
+11.0,Cádiz,238,19841,Province Cádiz<br>Id 11.0
+12.0,Castellón,194,21833,Province Castellón<br>Id 12.0
+13.0,Ciudad Real,71,20896,Province Ciudad Real<br>Id 13.0
+14.0,Córdoba,169,18306,Province Córdoba<br>Id 14.0
+15.0,A Coruña,565,19872,Province A Coruña<br>Id 15.0
+16.0,Cuenca,28,17318,Province Cuenca<br>Id 16.0
+17.0,Girona,382,21736,Province Girona<br>Id 17.0
+18.0,Granada,220,21015,Province Granada<br>Id 18.0
+19.0,Guadalajara,116,21074,Province Guadalajara<br>Id 19.0
+20.0,Guipúzcoa,347,22398,Province Guipúzcoa<br>Id 20.0
+21.0,Huelva,84,19620,Province Huelva<br>Id 21.0
+22.0,Huesca,49,17566,Province Huesca<br>Id 22.0
+23.0,Jaén,56,19265,Province Jaén<br>Id 23.0
+24.0,León,175,20417,Province León<br>Id 24.0
+25.0,Lleida,242,21015,Province Lleida<br>Id 25.0
+26.0,La Rioja,176,21493,Province La Rioja<br>Id 26.0
+27.0,Lugo,105,18977,Province Lugo<br>Id 27.0
+28.0,Madrid,9613,22092,Province Madrid<br>Id 28.0
+29.0,Málaga,1060,22020,Province Málaga<br>Id 29.0
+30.0,Murcia,497,20237,Province Murcia<br>Id 30.0
+31.0,Navarra,359,21052,Province Navarra<br>Id 31.0
+32.0,Ourense,89,20729,Province Ourense<br>Id 32.0
+33.0,Asturias,446,21925,Province Asturias<br>Id 33.0
+34.0,Palencia,48,20221,Province Palencia<br>Id 34.0
+35.0,Las Palmas,341,22700,Province Las Palmas<br>Id 35.0
+36.0,Pontevedra,315,18459,Province Pontevedra<br>Id 36.0
+37.0,Salamanca,125,19791,Province Salamanca<br>Id 37.0
+38.0,Santa Cruz De Tenerife,316,21357,Province Santa Cruz De Tenerife<br>Id 38.0
+39.0,Cantabria,262,21598,Province Cantabria<br>Id 39.0
+40.0,Segovia,46,20364,Province Segovia<br>Id 40.0
+41.0,Sevilla,923,19935,Province Sevilla<br>Id 41.0
+42.0,Soria,41,19192,Province Soria<br>Id 42.0
+43.0,Tarragona,440,21935,Province Tarragona<br>Id 43.0
+44.0,Teruel,42,16730,Province Teruel<br>Id 44.0
+45.0,Toledo,170,18395,Province Toledo<br>Id 45.0
+46.0,Valencia,1498,20711,Province Valencia<br>Id 46.0
+47.0,Valladolid,336,19589,Province Valladolid<br>Id 47.0
+48.0,Vizcaya,695,22045,Province Vizcaya<br>Id 48.0
+49.0,Zamora,23,19500,Province Zamora<br>Id 49.0
+50.0,Zaragoza,784,20394,Province Zaragoza<br>Id 50.0
+51.0,Melilla,14,16550,Province Melilla<br>Id 51.0
+52.0,Ceuta,12,23740,Province Ceuta<br>Id 52.0
