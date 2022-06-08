@@ -65,8 +65,3 @@ Contibuidores al proyecto
 * [@lisa31419](https://github.com/lisa31419)
 * [@AdrianSaizdePedro](https://github.com/AdrianSaizdePedro)
 
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
