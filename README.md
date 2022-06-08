@@ -1,4 +1,4 @@
-# Proyecto Bases de Dades 2022
+# Proyecto Bases de Dades 2022: Base para la página web GetIn-EXP
 
 <div align="center">
   <a href="https://github.com/GetIn-Exp/GetIn-EXP_web">
